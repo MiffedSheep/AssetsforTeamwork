@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class PusherCubeScript : MonoBehaviour {
-public int x,y;
+
 	// Use this for initialization
 	void Start () {
 	
